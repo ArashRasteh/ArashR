@@ -1,2 +1,1 @@
-# ArashR
-Repository of my work
+# Just a simple branf*** Excercise
